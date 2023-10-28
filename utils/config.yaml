@@ -1,0 +1,5 @@
+mode: "auto"
+time: 2000
+source: 3
+device: 3
+bufsize: 5
